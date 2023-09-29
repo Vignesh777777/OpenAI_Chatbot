@@ -6,7 +6,7 @@
 
 
 
-## Installation and Setup
+## Installation and Setup and procedure
 
 1. Clone this repository to your public machine.
 
@@ -51,3 +51,7 @@ python app.python
 ## License
 
 This project is licensed under the IIT License - see the [LICENSE](https://github.com/ServiceToMankind/openapi_chatbot/blob/main/LICENSE) file for details.
+
+## Greetings
+
+Thank you one and all
